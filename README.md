@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório de certificados e diplomas! Aqui você encontrará
 ## O que você encontrará aqui:
 
 - Certificados de Desenvolvimento Web
-- Futuro Diploma em Desenvolvimento de Software Multiplataforma (ainda não obtido, mas nos planos!)
+- Futuro Diploma em Analise e Desenvolvimento de Sistemas (ainda não obtido, mas nos planos!)
 - Próximo Certificado de Inteligência Artificial (também nos planos, aguarde novidades!)
 
 ## Como navegar:
